@@ -3,7 +3,10 @@
 
 ## :mag: Manual
 
-```txt
+```md
+# Emacs
+
+- Instead of `.emacs.d/init.el`, you can use `.emacs`
 
 ```
 
