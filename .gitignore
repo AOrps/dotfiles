@@ -6,3 +6,12 @@
 # Dirs
 venv/
 env/
+
+# Builds
+*.o
+
+# elara ignores
+templates/elara/dwm/dwm
+templates/elara/dmenu/dmenu
+templates/elara/dmenu/stest
+
